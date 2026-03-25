@@ -164,5 +164,8 @@
 
 ## Installation
 
-```bash
+```
 pip install -r requirements.txt
+```
+
+:arrow_up:[к оглавлению](#оглавление)
